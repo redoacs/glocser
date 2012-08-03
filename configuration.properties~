@@ -1,0 +1,5 @@
+#
+#Fri Mar 19 18:04:38 CST 2010
+alignmentToolPath=ext-tools/muscle
+currentDirectory=/home/xaltonalli/alignment-metarepo/data-repo/collection/its17
+alignmentToolOptions=-stable

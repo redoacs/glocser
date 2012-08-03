@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp -r /home/xaltonalli/alignment-metarepo/alignment-base-repo/release-versions/glocser/meta-release-files/* dist/
